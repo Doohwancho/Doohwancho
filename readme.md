@@ -8,7 +8,8 @@
 
 - projects
     1. domain
-        - [ecommerce](https://github.com/Doohwancho/ecommerce)
+        - [ecommerce_monolith](https://github.com/Doohwancho/ecommerce_monolith)
+        - [ecommerce_msa](https://github.com/Doohwancho/ecommerce_msa)
     2. productivity_tool
         - [floating_timer](https://github.com/Doohwancho/floating_timer/) (ios)
         - [skilltree](https://github.com/doohwancho/skilltree)(web)
