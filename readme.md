@@ -12,8 +12,8 @@
         - [ecommerce_msa](https://github.com/Doohwancho/ecommerce_msa)
     2. productivity_tool
         - [floating_timer](https://github.com/Doohwancho/floating_timer/) (ios)
+        - [life_calendar](https://github.com/Doohwancho/life_calendar) (web)
         - [skilltree](https://github.com/doohwancho/skilltree)(web)
-        - [time_ledger](https://github.com/doohwancho/time_ledger) (web)
         - [RockLee](https://github.com/doohwancho/rocklee) (chrome extension)
         - [repo_compare](https://github.com/doohwancho/repo_compare) (chrome extension)
     3. fun
@@ -43,6 +43,7 @@
     - [java](https://github.com/Doohwancho/spring)
     - [javascript](https://github.com/Doohwancho/javascript)
     - [devops](https://github.com/Doohwancho/devops)
+    - [python](https://github.com/Doohwancho/python)
     <!-- - [android](https://github.com/Doohwancho/android) -->
     <!-- - [swift](https://github.com/Doohwancho/swift) -->
-    <!-- - [python](https://github.com/Doohwancho/python) -->
+    
