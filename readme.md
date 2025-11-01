@@ -18,6 +18,7 @@
         - [repo_compare](https://github.com/doohwancho/repo_compare) (chrome extension)
     3. fun
         - [TrendSearch](https://github.com/doohwancho/trendsearch) (crawler)
+        - [x_crawler](https://github.com/Doohwancho/x_crawler) (crawler)
     <!-- 4. from scratch -->
     <!--     - [stl from scratch.c](https://github.com/Doohwancho/computer-science/tree/main/01.c/04.stl) -->
     <!--     - [text editor from scratch.c](https://github.com/Doohwancho/computer-science/tree/main/01.c/05.project/04.text-editor) -->
